@@ -1,2 +1,2 @@
-# Antithesls.github.io
+# Anti-thesis.github.io
 Website
